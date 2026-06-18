@@ -28,11 +28,43 @@ This project analyzes an e-commerce dataset using SQL. The goal is to find usefu
 10. Which customers spent the most money?
 
 ## Project Files
-- `Insights.md` - Contains business insights from SQL analysis.
-- SQL queries file - Contains all SQL queries used for analysis.
+- `Insights.md` - Contains business questions, results, and insights.
+- `analysis_queries.sql` - Contains all SQL queries used for analysis.
+
+## Screenshots
+
+### 1. Total Orders
+![Total Orders](screenshots/total_orders.png)
+
+### 2. Total Revenue
+![Total Revenue](screenshots/total_revenue.png)
+
+### 3. Revenue by Payment Type
+![Revenue by Payment Type](screenshots/revenue_by_payment_type.png)
+
+### 4. Top 10 Cities by Orders
+![Top 10 Cities by Orders](screenshots/top_10_cities_by_orders.png)
+
+### 5. Monthly Revenue Trend
+![Monthly Revenue Trend](screenshots/monthly_revenue_trend.png)
+
+### 6. Top 10 Product Categories by Orders
+![Top 10 Product Categories by Orders](screenshots/top_10_product_categories_by_orders.png)
+
+### 7. Orders by Order Status
+![Orders by Order Status](screenshots/orders_by_order_status.png)
+
+### 8. Average Order Value
+![Average Order Value](screenshots/average_order_value.png)
+
+### 9. Top 10 Products by Revenue
+![Top 10 Products by Revenue](screenshots/top_10_products_by_revenue.png)
+
+### 10. Top 10 Customers by Total Spending
+![Top 10 Customers by Total Spending](screenshots/top_10_customers_by_total_spending.png)
 
 ## Business Insights
-The analysis helps understand e-commerce performance, customer behavior, revenue trends, popular product categories, and payment preferences.
+The analysis helps understand e-commerce performance, customer behavior, revenue trends, popular product categories, payment preferences, and high-value customers.
 
 ## Conclusion
 This project helped me practice SQL concepts such as joins, aggregation, grouping, ordering, date functions, and business analysis using real-world e-commerce data.
