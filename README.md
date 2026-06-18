@@ -34,7 +34,7 @@ This project analyzes an e-commerce dataset using SQL. The goal is to find usefu
 ## Screenshots
 
 ### 1. Total Orders
-![Total Orders](https://github.com/NIKHIL-1200/E-commerce-sql-analysis/blob/main/Screenshots/Screenshot%20total_orders.png)
+![Total Orders](Screenshots/Screenshot total_orders.png)
 
 ### 2. Total Revenue
 ![Total Revenue](screenshots/total_revenue.png)
