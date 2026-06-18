@@ -1,7 +1,7 @@
 ## 1. Total Orders
 Question:
 What is the total number of orders?
-Result:
+\n Result:
 99441
 Insight:
 The total number of orders shows the Overall order volume of the e-commerce business.
