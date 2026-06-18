@@ -1,9 +1,9 @@
 ## 1. Total Orders
-Question:
+**Question:**
 What is the total number of orders?
-\n Result:
+**Result:**
 99441
-Insight:
+**Insight:**
 The total number of orders shows the Overall order volume of the e-commerce business.
 A high order count indicates strong customer activitiy on the platform.
 
