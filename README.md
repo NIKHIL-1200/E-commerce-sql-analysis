@@ -73,6 +73,6 @@ This project helped me practice SQL concepts such as joins, aggregation, groupin
 
 Author
 
-Nikhil KR
+Nikhil Uthaiah  KR
 
 GitHub: NIKHIL-1200
