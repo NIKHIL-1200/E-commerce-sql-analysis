@@ -69,3 +69,10 @@ The analysis helps understand e-commerce performance, customer behavior, revenue
 
 ## Conclusion
 This project helped me practice SQL concepts such as joins, aggregation, grouping, ordering, date functions, and business analysis using real-world e-commerce data.
+
+
+Author
+
+Nikhil KR
+
+GitHub: NIKHIL-1200
